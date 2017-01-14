@@ -58,6 +58,9 @@ img: hover{
 #green {background: green;}
 #blue {background: blue;}
 
+p, img {
+  display: none;
 }
+
 
 

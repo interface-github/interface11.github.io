@@ -39,9 +39,9 @@ nav ul li a:hover {
 }
   
 img {
-  height: 100px;
-  width: 100px;
-  border-radius: 100px;
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
 }
 
 img: hover{
@@ -58,8 +58,5 @@ img: hover{
 #green {background: green;}
 #blue {background: blue;}
 
-p, img {
-  display: none;
-}
 
 

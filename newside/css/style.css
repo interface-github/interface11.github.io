@@ -15,6 +15,7 @@ header {
   text-align: center;
   background-size: cover;
   }
+
 hr { 
     display: block;
     margin-top: 0.5em;
@@ -40,7 +41,7 @@ li a {
   display: black;
   color: white;
   text-align: center;
-  padding: 46px;
+  padding: 6px;
   text-decoration: none;
 }
 nav ul li a:hover {

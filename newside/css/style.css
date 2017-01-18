@@ -50,6 +50,8 @@ nav ul li a:hover {
     color: red;
 }
   
+img align: center;
+
 img {
   height: 300px;
   width: 300px;
@@ -58,7 +60,7 @@ img {
 
 img: hover{
   border-radius: 0px;
-}
+ }
 
 #green, #blue {
   background: green;
